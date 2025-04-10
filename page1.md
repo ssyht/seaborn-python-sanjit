@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ `page1.md`
+### ✅ Module: Seaborn Libraries (Python)
 
 ```md
 # Page 1 – Questions 1–4
