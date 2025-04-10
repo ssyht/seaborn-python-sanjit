@@ -3,10 +3,7 @@
 
 ### ✅ Module: Seaborn Libraries (Python)
 
-```md
-# Page 1 – Questions 1–4
-
----
+**# Page 1 – Questions 1–4**
 
 ### ❓ Q1: Load Titanic Dataset, Describe, and Analyze Survival
 
