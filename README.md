@@ -19,3 +19,10 @@ All visualizations are constructed using Seaborn as the core plotting tool, with
 The dataset used here is Seaborn's built-in Titanic dataset. It's already cleaned and structured for quick access with:
 ```python
 sns.load_dataset('titanic')
+
+
+Install necessary dependencies:
+
+```bash
+pip install seaborn matplotlib pandas numpy
+```
