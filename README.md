@@ -23,6 +23,6 @@ sns.load_dataset('titanic')
 
 Install necessary dependencies:
 
-```python
-pip install seaborn matplotlib pandas numpy
+
+$ pip install seaborn matplotlib pandas numpy
 ```
